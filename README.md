@@ -36,28 +36,28 @@ Voici un résumé des insights pour un dataset d'environ 35 000 films :
 ## Aperçu des Données 📊
 
 - **Personnes Concernées**: 41 cinéphiles du nord 🌍
-- **Durée**: 24 ans (2000 - 2024) d'exploration cinématographique 🕰️
-- **Nombre Total de Vues**: Un impressionnant total de 35 983 films et séries binge-watchés ! 🍿
+- **Durée**: 24 ans (2000 - 2024) d'exploration de données 🕰️
+- **Nombre Total de Vues**: Total de 35 983 films et séries binge-watchés ! 🍿
 
 ## Confrontation Saisonnière 🌱🌞🍁❄️
 
-- **Hiver**: 9 097 vues confortables
-- **Été**: 9 077 séances ensoleillées
-- **Automne**: 8 940 visionnages feuillus
-- **Printemps**: 8 869 séances fleuries
+- **Hiver**: 9 097 vues 
+- **Été**: 9 077 vues
+- **Automne**: 8 940 vues
+- **Printemps**: 8 869 vues
 ![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img1.png?raw=true)
 ## Palette de Genres 🎭🚀👻
 
 - **Meilleurs Genres**:
-  - **Sci-Fi**: 6 666 voyages interstellaires
-  - **Drame**: 5 625 sagas émouvantes
-  - **Thriller**: 5 138 aventures palpitantes
-  - **Comédie**: 4 285 moments hilarants
-  - **Horreur**: 3 931 frayeurs à vous glacer le sang
-  - **Animation**: 2 542 escapades animées
-  - **Aventure**: 1 606 quêtes pleines d'adrénaline
-  - **Famille**: 1 219 récits réconfortants
-  - **Action**: 450 aventures pleines d'action
+  - **Sci-Fi**: 6 666 vues
+  - **Drame**: 5 625 vues
+  - **Thriller**: 5 138 vues
+  - **Comédie**: 4 285 vues
+  - **Horreur**: 3 931 vues
+  - **Animation**: 2 542 vues
+  - **Aventure**: 1 606 vues
+  - **Famille**: 1 219 vues
+  - **Action**: 450 vues
 ![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img2.png?raw=true)
 ## Visualisation par lieux 🌍🎥
 
