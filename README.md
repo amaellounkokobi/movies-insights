@@ -27,7 +27,7 @@
 
 3. Pour éviter cette attente, vous pouvez lancer le Notebook `analyse_NOTEBOOK.ipynb` avec un dataset déjà généré pour voir les insights.
 
-## Insights
+# Insights 
 
 Voici un résumé des insights pour un dataset d'environ 35 000 films :
 
@@ -45,7 +45,7 @@ Voici un résumé des insights pour un dataset d'environ 35 000 films :
 - **Été**: 9 077 séances ensoleillées
 - **Automne**: 8 940 visionnages feuillus
 - **Printemps**: 8 869 séances fleuries
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img1.png?raw=true)
 ## Palette de Genres 🎭🚀👻
 
 - **Meilleurs Genres**:
