@@ -97,3 +97,4 @@ Voici un résumé des insights pour un dataset d'environ 35 000 films :
   
 ![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img8.png?raw=true)
 
+*Chatgpt text generation
