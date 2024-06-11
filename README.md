@@ -23,7 +23,7 @@
 
 1. Ouvrez le Jupyter Notebook `Data_engineer_junior_NOTEBOOK.ipynb` dans un éditeur (VS Code, Anaconda Jupyter Notebook, ...).
 
-2. Le script va effectuer une extraction de 2000 données, ce qui prendra environ 35 minutes.
+2. Le script va effectuer une extraction de 2000 données, ce qui prendra environ 40 minutes.
 
 3. Pour éviter cette attente, vous pouvez lancer le Notebook `analyse_NOTEBOOK.ipynb` avec un dataset déjà généré pour voir les insights.
 
