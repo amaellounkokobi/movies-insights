@@ -2,7 +2,7 @@
 
 ## Prérequis
 
-- Vous devez posséder une version récente de Python (3.10 et supérieure).
+- Vous devez posséder une version récente de Python (3.10 ou supérieure).
 - Vous devez avoir Visual Studio Code ou un éditeur permettant de lancer les Jupyter Notebooks (comme Anaconda Jupyter Notebook).
 
 ## Installation
