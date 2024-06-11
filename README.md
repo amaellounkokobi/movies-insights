@@ -58,28 +58,28 @@ Voici un résumé des insights pour un dataset d'environ 35 000 films :
   - **Aventure**: 1 606 quêtes pleines d'adrénaline
   - **Famille**: 1 219 récits réconfortants
   - **Action**: 450 aventures pleines d'action
-
-## Visualisation Mondiale 🌍🎥
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img2.png?raw=true)
+## Visualisation par lieux 🌍🎥
 
 - **Points Chauds**:
   - 🇸🇰 **Bratislava, Slovaquie**: 4 283 vues
   - 🏴 **Glasgow, Écosse, Royaume-Uni**: 3 718 vues
   - 🇬🇧 **Royaume-Uni**: 3 117 vues
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img3.png?raw=true)
 ## Préférences Saisonnieres de Genre 🌟
 
 ### Hiver Enneigé
 - **Sci-Fi**: 1 690 vues givrées ❄️👽
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img4.png?raw=true)
 ### Printemps Ensoleillé
 - **Sci-Fi**: 1 706 vues fleuries 🌸🚀
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img5.png?raw=true)
 ### Été Chaud
 - **Sci-Fi**: 1 808 vues brûlantes ☀️👾
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img6.png?raw=true)
 ### Aventures Automnales
 - **Sci-Fi**: 1 462 vues feuillues 🍁👽
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img7.png?raw=true)
 ## Connexion Âge-Genre 🧑‍🎤🧟‍♂️
 
 - **Horreur**: Âge moyen de 37 ans, bravant les frayeurs !
@@ -87,5 +87,5 @@ Voici un résumé des insights pour un dataset d'environ 35 000 films :
 - **Drame**: Âge moyen de 39 ans, vivant les montagnes russes émotionnelles !
 - **Comédie**: Âge moyen de 37 ans, répandant le rire !
 - **Sci-Fi**: Âge moyen de 38 ans, explorant le cosmos !
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img8.png?raw=true)
 
