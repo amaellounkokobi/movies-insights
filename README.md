@@ -1,5 +1,7 @@
 # movies-insights
 
+Fournir des informations sur les habitudes de visionnage des utilisateurs au cours des différentes saisons via l'API Trakt
+
 ## Prérequis
 
 - Vous devez posséder une version récente de Python (3.10 ou supérieure).
