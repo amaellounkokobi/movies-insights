@@ -6,6 +6,14 @@ Fournit des informations sur les habitudes de visionnage des utilisateurs au cou
 
 - Vous devez posséder une version récente de Python (3.10 ou supérieure).
 - Vous devez avoir Visual Studio Code ou un éditeur permettant de lancer les Jupyter Notebooks (comme Anaconda Jupyter Notebook).
+- Vous devez avoir les librairies Pandas et Matplotlib installées si ce n'est  pas le cas lancez:
+
+```bash
+pip install pandas
+```
+```bash
+pip install matplotlib
+```
 
 ## Installation
 
