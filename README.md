@@ -1,6 +1,6 @@
 # movies-insights
 
-Fournir des informations sur les habitudes de visionnage des utilisateurs au cours des différentes saisons via l'API Trakt
+Fournit des informations sur les habitudes de visionnage des utilisateurs au cours des différentes saisons via l'API Trakt.
 
 ## Prérequis
 
