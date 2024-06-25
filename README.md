@@ -89,13 +89,12 @@ Voici un résumé des insights pour un dataset d'environ 35 000 films :
 ### Printemps Ensoleillé
 - **Sci-Fi**: 1 706 vues = 🌸🚀
 
-![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img7.png?raw=true)
-  
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img4.png?raw=true)
+
 ### Été Chaud
 - **Sci-Fi**: 1 808 vues = ☀️👾
 
-![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img4.png?raw=true)
-
+![alt text](https://github.com/amaellounkokobi/movies-insights/blob/main/plot-images/img7.png?raw=true)
 
 ### Aventures Automnales
 - **Sci-Fi**: 1 462 vues = 🍁👽
